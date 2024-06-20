@@ -14,7 +14,9 @@
 - 💬 Ask me about **react, vue and gsap: Data Science, Machine Learning, Web Design, Odoo ERP**
 
 - 📫 How to reach me **diegocalderon9999@gmail.com**
-
+- 
+- ▶️  My youtube channel https://www.youtube.com/channel/UChVlqX5oQjpJjF4nb4EiahA
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/diego-angel-calder%c3%b3n-acu%c3%b1a-67614130b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-angel-calder%c3%b3n-acu%c3%b1a-67614130b/" height="30" width="40" /></a>
