@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Dio Calderon </h1>
-<h3 align="center">Passionate about data science, based in Peru.</h3>
+<h1 align="center">Hi 👋, I'm Dio Calderon</h1>
+<h3 align="center">Fullstack Developer passionate about building scalable and user-centric web applications.</h3>
 
-- 🔭 I’m currently working on **Data Analysis for Sales Optimization**
+- 🔭 I’m currently working on **Fullstack projects involving React, Node.js, and Spring Boot**
 
-- 🌱 I’m currently learning **TensorFlow, Python for Data Science, Advanced Machine Learning Courses**
+- 🌱 I’m currently learning **Advanced system architecture, testing strategies, and scalable deployment in AWS**
 
-- 👯 I’m looking to collaborate on **Machine Learning Model for Predictive Analytics**
+- 👯 I’m looking to collaborate on **Web apps, SaaS tools, and scalable backend services**
 
-- 🤝 I’m looking for help with **Advanced Data Visualization Techniques**
+- 🤝 I’m open to contributing to **open-source projects in frontend and backend development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diego-angel-calder%C3%B3n-acu%C3%B1a-67614130b/](https://www.linkedin.com/in/diego-angel-calder%C3%B3n-acu%C3%B1a-67614130b/)
+- 👨‍💻 Some of my projects are showcased on [LinkedIn](https://www.linkedin.com/in/diocal99/)
 
-- 💬 Ask me about **react, vue and gsap: Data Science, Machine Learning, Web Design, Odoo ERP**
+- 💬 Ask me about **React, Next.js, Tailwind CSS, Node.js, Spring Boot, MongoDB, PostgreSQL, Docker**
 
-- 📫 How to reach me **diegocalderon9999@gmail.com**
+- 📫 How to reach me: **diegocalderon9999@gmail.com**
 - 
 - ▶️  My youtube channel https://www.youtube.com/channel/UChVlqX5oQjpJjF4nb4EiahA
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/diego-angel-calder%c3%b3n-acu%c3%b1a-67614130b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-angel-calder%c3%b3n-acu%c3%b1a-67614130b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diocal99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-angel-calder%c3%b3n-acu%c3%b1a-67614130b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
